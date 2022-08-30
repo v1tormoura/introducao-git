@@ -33,7 +33,12 @@ section {
     font-size: 23px;
 }
 
-tbl1 {
+.tbl1 {
     background-color: red;
     font-size: 22px;
+}
+
+.container2 {
+    background-color: blueviolet;
+    border-radius: 20px;
 }
