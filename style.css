@@ -27,6 +27,7 @@ ul {
 .btn:hover {
     background: linear-gradient(red, blue, yellow, green, black);
     width: 100px;
+    border: 2px solid green;
 }
 
 section {
@@ -34,6 +35,8 @@ section {
     font-size: 23px;
     width: 200px;
     height: 200px;
+    height: 100px;
+    width: 100px;
 }
 
 .tbl1 {
