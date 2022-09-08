@@ -47,3 +47,9 @@ section {
     background-color: blue;
     font-size: 89px;    
 }
+
+.logo {
+    width: 90px;
+    height: 90px;
+    border: 2px solid rebeccapurple;
+}
