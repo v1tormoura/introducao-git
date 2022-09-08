@@ -26,11 +26,14 @@ ul {
 
 .btn:hover {
     background: linear-gradient(red, blue, yellow, green, black);
+    width: 100px;
 }
 
 section {
     background-color: royalblue;
     font-size: 23px;
+    width: 200px;
+    height: 200px;
 }
 
 .tbl1 {
